@@ -33,6 +33,7 @@ How to Use
 
 
 
+<img width="428" alt="image" src="https://github.com/STEVESEUNGWON/opencv_project/assets/159239472/03dbe1f4-63f9-40a3-8303-b17ba755652e">
 
 
 
